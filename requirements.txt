@@ -1,0 +1,4 @@
+fastapi==0.115.0
+sqlalchemy==2.0.24
+pydanti==2.5.3
+pytest==7.4.3
